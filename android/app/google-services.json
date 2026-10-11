@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "461865021581",
+    "project_id": "dukaloop-bd25d",
+    "storage_bucket": "dukaloop-bd25d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461865021581:android:5d2d21b241138f8858b2c4",
+        "android_client_info": {
+          "package_name": "ke.dukaloop.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE_-GB6Tr9aOKWLLN1_Z5q5FFUm1--8T4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
